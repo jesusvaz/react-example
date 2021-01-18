@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/jesusvaz.github.io/react-example/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/jesusvaz.github.io/react-example/static/js/main.73ac5e03.chunk.js",
-    "main.js.map": "/jesusvaz.github.io/react-example/static/js/main.73ac5e03.chunk.js.map",
-    "runtime-main.js": "/jesusvaz.github.io/react-example/static/js/runtime-main.d4dccf1b.js",
-    "runtime-main.js.map": "/jesusvaz.github.io/react-example/static/js/runtime-main.d4dccf1b.js.map",
-    "static/js/2.679e214a.chunk.js": "/jesusvaz.github.io/react-example/static/js/2.679e214a.chunk.js",
-    "static/js/2.679e214a.chunk.js.map": "/jesusvaz.github.io/react-example/static/js/2.679e214a.chunk.js.map",
-    "static/js/3.f70a8f4c.chunk.js": "/jesusvaz.github.io/react-example/static/js/3.f70a8f4c.chunk.js",
-    "static/js/3.f70a8f4c.chunk.js.map": "/jesusvaz.github.io/react-example/static/js/3.f70a8f4c.chunk.js.map",
-    "index.html": "/jesusvaz.github.io/react-example/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/jesusvaz.github.io/react-example/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.679e214a.chunk.js.LICENSE.txt": "/jesusvaz.github.io/react-example/static/js/2.679e214a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/jesusvaz.github.io/react-example/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-example/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-example/static/js/main.73ac5e03.chunk.js",
+    "main.js.map": "/react-example/static/js/main.73ac5e03.chunk.js.map",
+    "runtime-main.js": "/react-example/static/js/runtime-main.9728628f.js",
+    "runtime-main.js.map": "/react-example/static/js/runtime-main.9728628f.js.map",
+    "static/js/2.679e214a.chunk.js": "/react-example/static/js/2.679e214a.chunk.js",
+    "static/js/2.679e214a.chunk.js.map": "/react-example/static/js/2.679e214a.chunk.js.map",
+    "static/js/3.f70a8f4c.chunk.js": "/react-example/static/js/3.f70a8f4c.chunk.js",
+    "static/js/3.f70a8f4c.chunk.js.map": "/react-example/static/js/3.f70a8f4c.chunk.js.map",
+    "index.html": "/react-example/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-example/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.679e214a.chunk.js.LICENSE.txt": "/react-example/static/js/2.679e214a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-example/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4dccf1b.js",
+    "static/js/runtime-main.9728628f.js",
     "static/js/2.679e214a.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.73ac5e03.chunk.js"
